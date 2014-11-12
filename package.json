@@ -1,12 +1,9 @@
 {
-  "dependencies": {
-    "coffee-script": "~1.7.1"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "mocha": "~1.12.0"
+    "mocha": "^2.0.1"
   },
   "scripts": {
     "test": "mocha --reporter spec "
   }
-
 }
